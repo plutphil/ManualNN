@@ -14,7 +14,7 @@ function calcNeuron(inputs, weights, bias){
     for (let i = 0; i < inputs.length; i++) {
         sum += inputs[i]*weights[i];
     }
-    return stepFun(sum*scaling);
+    return sigmoid(sum*scaling);
 }
 class InputNN{
     constructor(val){
