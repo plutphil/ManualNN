@@ -1,0 +1,2 @@
+# ManualNN
+Manual Neural Net
