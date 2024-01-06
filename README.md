@@ -9,3 +9,5 @@ The first view shows the output of the final output neuron. is the same as the l
 Planned Features:
 - training algorithms
 - visualizing neurons and weights
+
+## try it out here: https://plutphil.github.io/ManualNN/
